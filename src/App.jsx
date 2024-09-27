@@ -32,7 +32,7 @@ import Allorders from "./Components/AllOrders/AllOrders.jsx";
 function App() {
   let rout = createBrowserRouter([
     {
-      path: "/E-commerce-React/",
+      path: "/E-commerce-React",
       element: <Layout />,
       children: [
         {
